@@ -1,0 +1,12 @@
+/home/ivan/RiderProjects/Task/TaskApp/bin/Debug/TaskApp.exe
+/home/ivan/RiderProjects/Task/TaskApp/bin/Debug/TaskApp.pdb
+/home/ivan/RiderProjects/Task/TaskApp/obj/Debug/TaskApp.csprojResolveAssemblyReference.cache
+/home/ivan/RiderProjects/Task/TaskApp/obj/Debug/TaskApp.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/Task/TaskApp/obj/Debug/TaskApp.exe
+/home/ivan/RiderProjects/Task/TaskApp/obj/Debug/TaskApp.pdb
+/home/ivan/Desktop/Task/TaskApp/bin/Debug/TaskApp.exe
+/home/ivan/Desktop/Task/TaskApp/bin/Debug/TaskApp.pdb
+/home/ivan/Desktop/Task/TaskApp/obj/Debug/TaskApp.csprojResolveAssemblyReference.cache
+/home/ivan/Desktop/Task/TaskApp/obj/Debug/TaskApp.csproj.CoreCompileInputs.cache
+/home/ivan/Desktop/Task/TaskApp/obj/Debug/TaskApp.exe
+/home/ivan/Desktop/Task/TaskApp/obj/Debug/TaskApp.pdb
