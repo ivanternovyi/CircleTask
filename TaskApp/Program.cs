@@ -7,7 +7,7 @@ namespace TaskApp
     {
         public static void Main(string[] args)
         {
-            Circle[] arr = null;
+            Circle[] arr;
             arr = InputData();
             Array.Sort(arr);
             DisplayArr(arr);
