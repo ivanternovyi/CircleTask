@@ -7,7 +7,7 @@ namespace TaskApp
     {
         public static void Main(string[] args)
         {
-            Circle[] arr;
+            Circle[] arr = null;
             arr = InputData();
             Array.Sort(arr);
             DisplayArr(arr);
@@ -23,16 +23,21 @@ namespace TaskApp
             Console.WriteLine("Input number of circles: ");
             var size = 0;
             double x, y, rad;
-            Int32.TryParse(Console.ReadLine(), out size);
+            string input;
+            input = Console.ReadLine();
+            Int32.TryParse(input, out size);
             Circle[] arr = new Circle[size];
             for(var i = 0; i < size; i++)
             {
                 Console.WriteLine("Input x coordinate: ");
-                Double.TryParse(Console.ReadLine(), out x);
+                input = Console.ReadLine();
+                Double.TryParse(input, out x);
                 Console.WriteLine("Input y coordinate: ");
-                Double.TryParse(Console.ReadLine(), out y);
+                input = Console.ReadLine();
+                Double.TryParse(input, out y);
                 Console.WriteLine("Input radius: ");
-                Double.TryParse(Console.ReadLine(), out rad);
+                input = Console.ReadLine();
+                Double.TryParse(input, out rad);
                 arr[i] = new Circle(x, y, rad);
             }    
             return arr;
